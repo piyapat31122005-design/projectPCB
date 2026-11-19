@@ -1,0 +1,20 @@
+# ===== ข้อมูลส่วนบุคคล: ห้ามอัปโหลดรูปใบหน้าขึ้น repo สาธารณะ =====
+dataset/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# ===== IDE / OS =====
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
